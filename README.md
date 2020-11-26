@@ -1,6 +1,8 @@
 Hi! I'm James Loizou :) I am a Software Developer based in London, below are my projects!
+<br><br>
 
 Tech Stack:
+<br>
 <div>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -15,6 +17,7 @@ Tech Stack:
 <br><br>
 
 Come say hi!
+<br>
 <div>
 <a href="https://www.linkedin.com/in/james-loizou-200330155/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
