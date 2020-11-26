@@ -12,6 +12,12 @@ Tech Stack:
   </div>
 
 
+
+
+
+
+
+
 Come say hi!
 <div>
 <a href="https://www.linkedin.com/in/james-loizou-200330155/">
