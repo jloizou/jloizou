@@ -12,11 +12,7 @@ Tech Stack:
   </div>
 
 
-
-
-
-
-
+<br><br>
 
 Come say hi!
 <div>
